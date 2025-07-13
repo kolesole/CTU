@@ -1,0 +1,9 @@
+# ninja log v6
+1	20	1743673075808704026	build.ninja	6aba4973cd89439a
+0	899	1743670773618245808	CMakeFiles/07_0test_simd_support.dir/src/0test_simd_support.cpp.o	540d2ace40d46142
+899	940	1743670774517239974	07_0test_simd_support	5873415013ec9327
+1795	1834	1743672561434979764	07_1autovectorization	b5d07aa5efa37646
+1	1791	1743672559640988837	CMakeFiles/07_1autovectorization.dir/src/1autovectorization.cpp.o	f16a105c825a41c4
+0	22	1743673075808704026	build.ninja	6aba4973cd89439a
+0	1009	1743673075817703972	CMakeFiles/07_2intrinsics_test.dir/src/2intrinsics_test.cpp.o	1dce1dfd552fe47
+1009	1047	1743673076826697899	07_2intrinsics_test	e002ed0bc723ffc7

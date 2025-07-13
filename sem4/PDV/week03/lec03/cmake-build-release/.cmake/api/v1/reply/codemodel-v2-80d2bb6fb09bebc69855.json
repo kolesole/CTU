@@ -1,0 +1,150 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "lectures/03openmp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "1hello_world::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1hello_world-Release-2b6078a4330186235898.json",
+					"name" : "1hello_world",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2parallel::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2parallel-Release-5846f2660d924d48e9b2.json",
+					"name" : "2parallel",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2parallel_omph::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2parallel_omph-Release-9330cc0a3020f2254949.json",
+					"name" : "2parallel_omph",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3sections::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3sections-Release-f918ef6122639cabfb0d.json",
+					"name" : "3sections",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "4for::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4for-Release-2b1362e4f9f65211236c.json",
+					"name" : "4for",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "5for_benchmark::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5for_benchmark-Release-b983a4b0b42a4080ce00.json",
+					"name" : "5for_benchmark",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "6for_gantt::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-6for_gantt-Release-8fd3aeccd3006723d27b.json",
+					"name" : "6for_gantt",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "7for_collapse::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-7for_collapse-Release-dc4bb604453291199d73.json",
+					"name" : "7for_collapse",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "8sync::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8sync-Release-b0cbd13cbdcdf76d0124.json",
+					"name" : "8sync",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "9cancellation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-9cancellation-Release-bd9f146305559b57188e.json",
+					"name" : "9cancellation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "9tasks::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-9tasks-Release-ef9f0ab5f6605dbe05d4.json",
+					"name" : "9tasks",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/kolesiko/sem4/PDV/week03/lec03/cmake-build-release",
+		"source" : "/home/kolesiko/sem4/PDV/week03/lec03"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

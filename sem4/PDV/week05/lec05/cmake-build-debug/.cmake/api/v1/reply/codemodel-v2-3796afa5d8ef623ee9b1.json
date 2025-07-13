@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "lectures/05design",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "1nested_parallel::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1nested_parallel-Debug-8d6e28c4c697a1adc74f.json",
+					"name" : "1nested_parallel",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2cancellation_for::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2cancellation_for-Debug-2e6840a27ce3b78593a8.json",
+					"name" : "2cancellation_for",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3quicksort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3quicksort-Debug-d85b6c96218a3ac2537a.json",
+					"name" : "3quicksort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "4prime_sieve::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4prime_sieve-Debug-6e8aa31eb26f80bf79ff.json",
+					"name" : "4prime_sieve",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/kolesiko/sem4/PDV/week05/lec05/cmake-build-debug",
+		"source" : "/home/kolesiko/sem4/PDV/week05/lec05"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

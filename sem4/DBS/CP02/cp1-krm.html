@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>CP-2 Relational Model</title>
+  <style>
+    .indent {
+      margin-left: 0.5cm;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Page break equivalent (optional) -->
+  <div style="page-break-before: always;"></div>
+
+  <div style="text-align: center;">
+    <h1>CP-2 Relational Model</h1>
+    <br>
+  </div>
+
+  <div style="text-align: left;">
+    <p><strong>Sports hall</strong>(<u>name</u>, size)</p>
+    <p><strong>Hall Specialization</strong>(<u>name, specialization</u>)</p>
+    <p class="indent"><strong>FK:</strong> (name) ⊆ <strong>Sports hall</strong>(name)</p>
+    <p><strong>User</strong>(<u>login</u>, password)</p>
+    <p><strong>Personal data</strong>(<u>name, surname, date of birth</u>, <u>e-mail</u>, phone number, <u>login</u>)</p>
+    <p class="indent"><strong>FK:</strong> (login) ⊆ <strong>User</strong>(login)</p>
+    <p><strong>Address</strong>(<u>e-mail</u>, city, street, house number)</p>
+    <p class="indent"><strong>FK:</strong> (e-mail) ⊆ <strong>Personal data</strong>(e-mail)</p>
+    <p><strong>Client</strong>(<u>login</u>)</p>
+    <p class="indent"><strong>FK:</strong> (login) ⊆ <strong>User</strong>(login)</p>
+    <p><strong>Preferences in sports</strong>(<u>login, preferences in sports</u>)</p>
+    <p class="indent"><strong>FK:</strong> (login) ⊆ <strong>Client</strong>(login)</p>
+    <p><strong>Trainer</strong>(<u>login</u>)</p>
+    <p class="indent"><strong>FK:</strong> (login) ⊆ <strong>User</strong>(login)</p>
+    <p><strong>Trainer Specialization</strong>(<u>login, name of sport</u>)</p>
+    <p class="indent"><strong>FK:</strong> (login) ⊆ <strong>Trainer</strong>(login)</p>
+    <p><strong>Education</strong>(<u>login</u>, education)</p>
+    <p class="indent"><strong>FK:</strong> (login) ⊆ <strong>Trainer</strong>(login)</p>
+    <p><strong>Is assistant for</strong>(<u>trainer, assistant</u>)</p>
+    <p class="indent"><strong>FK:</strong> (trainer) ⊆ <strong>Trainer</strong>(login)</p>
+    <p class="indent"><strong>FK:</strong> (assistant) ⊆ <strong>Trainer</strong>(login)</p>
+    <p><strong>Training</strong>(<u>training date, name</u>, type, capacity, price for one)</p>
+    <p class="indent"><strong>FK:</strong> (name) ⊆ <strong>Sports hall</strong>(name)</p>
+    <p><strong>Conducts</strong>(<u>login, name, training date</u>)</p>
+    <p class="indent"><strong>FK:</strong> (login) ⊆ <strong>Trainer</strong>(login)</p>
+    <p class="indent"><strong>FK:</strong> (name, training date) ⊆ <strong>Training</strong>(name, training date)</p>
+    <p><strong>Payment</strong>(final price, payment method, <u>payment date, login</u>)</p>
+    <p class="indent"><strong>FK:</strong> (login) ⊆ <strong>Client</strong>(login)</p>
+    <p><strong>Reservation</strong>(<u>reservation date, login</u>, status, training date, name)</p>
+    <p class="indent"><strong>FK:</strong> (login) ⊆ <strong>Client</strong>(login)</p>
+    <p class="indent"><strong>FK:</strong> (training date, name) ⊆ <strong>Training</strong>(training date, name)</p>
+    <p><strong>ReservationPayment</strong>(<u>reservation date, login1, payment date, login2</u>)</p>
+    <p class="indent"><strong>FK:</strong> (reservation date, login1) ⊆ <strong>Reservation</strong>(reservation date, login)</p>
+    <p class="indent"><strong>FK:</strong> (payment date, login2) ⊆ <strong>Payment</strong>(payment date, login)</p>
+  </div>
+
+</body>
+</html>

@@ -1,0 +1,4 @@
+/home/kolesiko/sem4/PDV/week2/cv2/cmake-build-debug/CMakeFiles/02_1threads.dir
+/home/kolesiko/sem4/PDV/week2/cv2/cmake-build-debug/CMakeFiles/02_2condition_variable.dir
+/home/kolesiko/sem4/PDV/week2/cv2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kolesiko/sem4/PDV/week2/cv2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

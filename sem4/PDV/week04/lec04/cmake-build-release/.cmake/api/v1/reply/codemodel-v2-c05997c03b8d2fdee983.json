@@ -1,0 +1,123 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "lectures/04cds",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "1rwlock::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1rwlock-Release-85b8e235f522770dd514.json",
+					"name" : "1rwlock",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2concurrent_hash_set::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2concurrent_hash_set-Release-66078f72e65bcc80bd14.json",
+					"name" : "2concurrent_hash_set",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3atomic_for_index::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3atomic_for_index-Release-5bdb90955f4b4d36b3c2.json",
+					"name" : "3atomic_for_index",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "4instrumentation_counter::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4instrumentation_counter-Release-7b570ee9e7cd659e6c18.json",
+					"name" : "4instrumentation_counter",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "5average_atomic::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5average_atomic-Release-3ec6dabbcafc162c949e.json",
+					"name" : "5average_atomic",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "6max_atomic::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-6max_atomic-Release-8059d5a8d200f941bb20.json",
+					"name" : "6max_atomic",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "7spinlock::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-7spinlock-Release-67efe9aa240e8c5566e2.json",
+					"name" : "7spinlock",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "8lock_free_stack::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8lock_free_stack-Release-42501d76b54483ee9ebc.json",
+					"name" : "8lock_free_stack",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/kolesiko/sem4/PDV/week04/lec04/cmake-build-release",
+		"source" : "/home/kolesiko/sem4/PDV/week04/lec04"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

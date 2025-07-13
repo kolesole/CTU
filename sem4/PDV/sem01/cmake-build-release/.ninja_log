@@ -1,0 +1,6 @@
+# ninja log v6
+371	1199	1744932526134364693	hw	27e3b6cfea779c18
+1	1323	1744931421305798543	CMakeFiles/hw.dir/src/main.cpp.o	375d28aa79f56f92
+3	708	1744886157830668562	CMakeFiles/hw.dir/src/iddfs_weighted.cpp.o	c9f9ce4a44d13809
+1	371	1744932525764366728	CMakeFiles/hw.dir/src/iddfs.cpp.o	9142c009f5d71c7e
+2	900	1744890408771297166	CMakeFiles/hw.dir/src/bfs.cpp.o	7faf62a6bfdf5966

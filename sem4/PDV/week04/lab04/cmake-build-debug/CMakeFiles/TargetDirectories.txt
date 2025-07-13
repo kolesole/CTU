@@ -1,0 +1,3 @@
+/home/kolesiko/sem4/PDV/week04/lab04/cmake-build-debug/CMakeFiles/04_linked_list.dir
+/home/kolesiko/sem4/PDV/week04/lab04/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kolesiko/sem4/PDV/week04/lab04/cmake-build-debug/CMakeFiles/rebuild_cache.dir

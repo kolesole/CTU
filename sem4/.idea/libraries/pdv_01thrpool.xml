@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="pdv-01thrpool">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/PDV/hw01/pdv-01thrpool.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

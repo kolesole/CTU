@@ -1,0 +1,4 @@
+# ninja log v6
+370	677	1743363288338219690	hw	b89dac5ed7306ed0
+1	899	1743362426149307449	CMakeFiles/hw.dir/src/main.cpp.o	d8e4b3c63649bbc5
+1	370	1743363287969221926	CMakeFiles/hw.dir/src/sort.cpp.o	f7d5fca747ebafbb

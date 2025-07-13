@@ -1,0 +1,4 @@
+/home/kolesiko/sem4/PDV/week03/lab03/cmake-build-release/CMakeFiles/03_1openmp_test.dir
+/home/kolesiko/sem4/PDV/week03/lab03/cmake-build-release/CMakeFiles/03_2integrate.dir
+/home/kolesiko/sem4/PDV/week03/lab03/cmake-build-release/CMakeFiles/edit_cache.dir
+/home/kolesiko/sem4/PDV/week03/lab03/cmake-build-release/CMakeFiles/rebuild_cache.dir

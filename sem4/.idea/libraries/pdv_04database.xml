@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="pdv-04database">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/PDV/hw04/pdv-04database.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

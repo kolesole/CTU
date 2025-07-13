@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="pdv-07mutex">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/pdv-07mutex.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

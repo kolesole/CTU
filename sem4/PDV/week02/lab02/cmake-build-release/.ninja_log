@@ -1,0 +1,6 @@
+# ninja log v6
+1	939	1740651720859741133	CMakeFiles/02_1threads.dir/src/1threads_benchmark.cpp.o	8712f73addda0155
+380	483	1740655370084980648	02_2condition_variable	d0ed91dc63589ec6
+1	960	1740654859763337357	CMakeFiles/02_1threads.dir/src/1threads.cpp.o	6da2ba4e0628efc1
+960	1351	1740654860722331071	02_1threads	f64e87ac889e9d26
+0	380	1740655369704980592	CMakeFiles/02_2condition_variable.dir/src/2condition_variable.cpp.o	b452f1e7ca513076

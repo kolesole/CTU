@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/CP03/add_partner.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/CP03/change_password.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/CP03/queries.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/CP03/restart_db.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/CP03/tables.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/CP04/indexes.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/CP04/transactions.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/CP04/triggers.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/CP04/views.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/cv/test.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/sports-complex-database/CP03/queries.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/sports-complex-database/CP03/restart_db.sql" dialect="PostgreSQL" />
+    <file url="PROJECT" dialect="PostgreSQL" />
+  </component>
+</project>

@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "pdv_lab03",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "03_1openmp_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03_1openmp_test-Release-ffdfa8a52821ef78a806.json",
+					"name" : "03_1openmp_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "03_2integrate::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03_2integrate-Release-6fa4fa04837e5c77ab49.json",
+					"name" : "03_2integrate",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/kolesiko/sem4/PDV/week03/lab03/cmake-build-release",
+		"source" : "/home/kolesiko/sem4/PDV/week03/lab03"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

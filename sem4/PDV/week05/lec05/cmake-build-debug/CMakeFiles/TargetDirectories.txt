@@ -1,0 +1,6 @@
+/home/kolesiko/sem4/PDV/week05/lec05/cmake-build-debug/CMakeFiles/1nested_parallel.dir
+/home/kolesiko/sem4/PDV/week05/lec05/cmake-build-debug/CMakeFiles/2cancellation_for.dir
+/home/kolesiko/sem4/PDV/week05/lec05/cmake-build-debug/CMakeFiles/3quicksort.dir
+/home/kolesiko/sem4/PDV/week05/lec05/cmake-build-debug/CMakeFiles/4prime_sieve.dir
+/home/kolesiko/sem4/PDV/week05/lec05/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kolesiko/sem4/PDV/week05/lec05/cmake-build-debug/CMakeFiles/rebuild_cache.dir

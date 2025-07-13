@@ -1,0 +1,7 @@
+/home/kolesiko/sem4/PDV/week07+/tutorial_07/cmake-build-release/CMakeFiles/autovec.dir
+/home/kolesiko/sem4/PDV/week07+/tutorial_07/cmake-build-release/CMakeFiles/normdist.dir
+/home/kolesiko/sem4/PDV/week07+/tutorial_07/cmake-build-release/CMakeFiles/condswap.dir
+/home/kolesiko/sem4/PDV/week07+/tutorial_07/cmake-build-release/CMakeFiles/lzcnt.dir
+/home/kolesiko/sem4/PDV/week07+/tutorial_07/cmake-build-release/CMakeFiles/popcnt.dir
+/home/kolesiko/sem4/PDV/week07+/tutorial_07/cmake-build-release/CMakeFiles/edit_cache.dir
+/home/kolesiko/sem4/PDV/week07+/tutorial_07/cmake-build-release/CMakeFiles/rebuild_cache.dir

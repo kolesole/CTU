@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "pdv_lab05",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "05_1early_exit::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-05_1early_exit-Release-73464e4106b9306eb6c6.json",
+					"name" : "05_1early_exit",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "05_2cancellations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-05_2cancellations-Release-f3105abe3f8ae1414ed8.json",
+					"name" : "05_2cancellations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "05_3tasks::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-05_3tasks-Release-de007b5be51e78660e91.json",
+					"name" : "05_3tasks",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/kolesiko/sem4/PDV/week05/lab05/cmake-build-release",
+		"source" : "/home/kolesiko/sem4/PDV/week05/lab05"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

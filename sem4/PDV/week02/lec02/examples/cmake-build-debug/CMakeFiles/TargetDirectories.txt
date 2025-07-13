@@ -1,0 +1,12 @@
+/home/kolesiko/sem4/PDV/week2/example/examples/cmake-build-debug/CMakeFiles/1_main.dir
+/home/kolesiko/sem4/PDV/week2/example/examples/cmake-build-debug/CMakeFiles/1_template_fn.dir
+/home/kolesiko/sem4/PDV/week2/example/examples/cmake-build-debug/CMakeFiles/1_template_array.dir
+/home/kolesiko/sem4/PDV/week2/example/examples/cmake-build-debug/CMakeFiles/1_template_heap.dir
+/home/kolesiko/sem4/PDV/week2/example/examples/cmake-build-debug/CMakeFiles/2_1jthread.dir
+/home/kolesiko/sem4/PDV/week2/example/examples/cmake-build-debug/CMakeFiles/2_1synchronization.dir
+/home/kolesiko/sem4/PDV/week2/example/examples/cmake-build-debug/CMakeFiles/3_1increment.dir
+/home/kolesiko/sem4/PDV/week2/example/examples/cmake-build-debug/CMakeFiles/3_1increment_atomic.dir
+/home/kolesiko/sem4/PDV/week2/example/examples/cmake-build-debug/CMakeFiles/3_2spinlock.dir
+/home/kolesiko/sem4/PDV/week2/example/examples/cmake-build-debug/CMakeFiles/3_2spinlock_atomic.dir
+/home/kolesiko/sem4/PDV/week2/example/examples/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kolesiko/sem4/PDV/week2/example/examples/cmake-build-debug/CMakeFiles/rebuild_cache.dir

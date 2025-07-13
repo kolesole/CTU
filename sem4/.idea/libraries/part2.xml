@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="part2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/OPT/hw01/part2/hw01.zip!/" />
+      <root url="jar://$PROJECT_DIR$/OPT/hw01/part2/gong_python.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

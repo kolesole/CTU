@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "pdv_lab01",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "01_0hello::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01_0hello-Release-3be36b8dd004433cf171.json",
+					"name" : "01_0hello",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "01_1memory::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01_1memory-Release-7b288c9eed1ca8acfea6.json",
+					"name" : "01_1memory",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "01_2matrix::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01_2matrix-Release-999df5c968b7daf5b17d.json",
+					"name" : "01_2matrix",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "01_3false_sharing::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01_3false_sharing-Release-8c5245b8b8b067fd8ad8.json",
+					"name" : "01_3false_sharing",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "01_4magic::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01_4magic-Release-74b27e7d7dbafd227ec8.json",
+					"name" : "01_4magic",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "01_5ema::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01_5ema-Release-f9208fdbb7503ebfb0f4.json",
+					"name" : "01_5ema",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/kolesiko/sem4/PDV/week01/cv/cmake-build-release",
+		"source" : "/home/kolesiko/sem4/PDV/week01/cv"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

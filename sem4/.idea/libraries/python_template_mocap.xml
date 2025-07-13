@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="python_template_mocap">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/OPT/hw02/tmp/python_template_mocap.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

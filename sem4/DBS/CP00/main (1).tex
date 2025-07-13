@@ -1,0 +1,67 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{geometry}
+\usepackage{xcolor}
+\geometry{margin=1in}
+
+\begin{document}
+
+\begin{titlepage}
+    \centering
+    {\LARGE Semestral work DBS 2025 \par}
+    \vspace{1cm}
+    {\Large Theme: Sports Complex Database\par}
+    \vspace{1cm}
+    {\large Authors: Oleksii Kolesnichenko, Serhii Zhyltsov \par}
+    \vspace{1cm}
+    {\large e-mails: \textbf{kolesole@fel.cvut.cz}, \textbf{zhyltser@fel.cvut.cz} \par}
+    \vfill
+\end{titlepage}
+
+\title{CP-0 Topic Statement + Bonus}
+\date{}
+\maketitle
+
+\subsection*{\textbf{Theme:} \normalfont{Sports Complex Database}}
+
+\subsection*{Motivation: \normalfont{The motivation is to simplify and
+accelerate the daily operations of the sports complex, solve issues with scheduling conflicts,
+payment transactions, and monitoring the use of individual sports facilities.}} 
+
+\subsection*{Short Description: \normalfont{This project focuses on the design and implementation of a database system
+for managing reservations in the sports complex, which includes  group/solo trainings with trainer or without. The goal is to effectively digitize
+the process of reservations, payments, reservation collisions etc.}} 
+
+
+\subsection*{Taxonomic and Operational Scope: \normalfont{The proposed system will include several taxonomic levels (records of branches,
+sports halls, clients, trainers and trainings) and will handle operational data such as attendance at training sessions, payments.}} 
+
+
+\subsection*{\textbf{Bonus:} \normalfont{Detailed List of Entities and Relationships}}
+
+
+\subsection*{\textbf{Entities(WHO and WHAT):}}
+1. \textbf{Branch} - \textbf{\textcolor{blue}{\underline{address}}}(city, street, house number) \newline
+2. \textbf{Sports Hall} - \textbf{\textcolor{blue}{\underline{name}}}, size, specialization \newline
+3. \textbf{User} - \textbf{\textcolor{blue}{\underline{login}}}, password \newline
+4. \textbf{Client} (derives from User) - preferences in sports \newline
+5. \textbf{Trainer} (derives from User) - specialization, education \newline
+6. \textbf{Personal Data} - \textbf{\textcolor{blue}{\underline{name}}, \textcolor{blue}{\underline{surname}}, \textcolor{blue}{\underline{date of birth}}, \textcolor{red}{\underline{e-mail}}, \textcolor{green}{\underline{phone number}}} \newline
+7. \textbf{Reservation} - status, reservation date \newline
+8. \textbf{Payment} - amount, payment date, payment method \newline
+9. \textbf{Training} - type, training date \newline
+
+\subsection*{\textbf{Relationships(What does):}}
+1. Branch \textbf{contains} Sports Halls \newline
+2. User \textbf{has} Personal data \newline
+3. Client \textbf{makes} Reservation \newline
+4. Client \textbf{makes} Payment \newline
+5. Trainer \textbf{is assistant for }trainer \newline
+6. Trainer \textbf{conducts} trainings \newline
+7. Reservation \textbf{includes} Payment \newline
+8. Reservation \textbf{applies to} Training \newline
+9. Training \textbf{takes place in} Sports hall \newline
+
+\end{document}

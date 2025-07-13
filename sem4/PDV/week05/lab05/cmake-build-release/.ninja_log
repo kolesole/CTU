@@ -1,0 +1,9 @@
+# ninja log v6
+1	874	1742467122825205611	CMakeFiles/05_1early_exit.dir/src/1early_exit.cpp.o	1c09ecedf8ef58d5
+874	1078	1742467123698200790	05_1early_exit	b2b9e1010b665b1
+1	864	1742468394181374899	CMakeFiles/05_2cancellations.dir/src/2cancellations.cpp.o	5ff74fe468fec4ef
+864	1060	1742468395044371308	05_2cancellations	cce4e4a6ccd6c0ff
+1	875	1742470304042253902	CMakeFiles/05_3tasks.dir/src/3tasks.cpp.o	73fe226132d8b255
+876	1101	1742470304917249675	05_3tasks	2186969839e266a4
+1	881	1748455547194537654	CMakeFiles/05_2cancellations.dir/src/2cancellations.cpp.o	5ff74fe468fec4ef
+881	1073	1748455548074534056	05_2cancellations	a1945bd6a9e7c87e

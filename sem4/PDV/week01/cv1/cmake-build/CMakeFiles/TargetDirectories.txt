@@ -1,0 +1,8 @@
+/home/kolesiko/sem4/PDV/cv1/cmake-build/CMakeFiles/01_0hello.dir
+/home/kolesiko/sem4/PDV/cv1/cmake-build/CMakeFiles/01_1memory.dir
+/home/kolesiko/sem4/PDV/cv1/cmake-build/CMakeFiles/01_2matrix.dir
+/home/kolesiko/sem4/PDV/cv1/cmake-build/CMakeFiles/01_3false_sharing.dir
+/home/kolesiko/sem4/PDV/cv1/cmake-build/CMakeFiles/01_4magic.dir
+/home/kolesiko/sem4/PDV/cv1/cmake-build/CMakeFiles/01_5ema.dir
+/home/kolesiko/sem4/PDV/cv1/cmake-build/CMakeFiles/edit_cache.dir
+/home/kolesiko/sem4/PDV/cv1/cmake-build/CMakeFiles/rebuild_cache.dir

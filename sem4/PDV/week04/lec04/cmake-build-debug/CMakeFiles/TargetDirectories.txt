@@ -1,0 +1,10 @@
+/home/kolesiko/sem4/PDV/week04/lec04/cmake-build-debug/CMakeFiles/1rwlock.dir
+/home/kolesiko/sem4/PDV/week04/lec04/cmake-build-debug/CMakeFiles/2concurrent_hash_set.dir
+/home/kolesiko/sem4/PDV/week04/lec04/cmake-build-debug/CMakeFiles/3atomic_for_index.dir
+/home/kolesiko/sem4/PDV/week04/lec04/cmake-build-debug/CMakeFiles/4instrumentation_counter.dir
+/home/kolesiko/sem4/PDV/week04/lec04/cmake-build-debug/CMakeFiles/5average_atomic.dir
+/home/kolesiko/sem4/PDV/week04/lec04/cmake-build-debug/CMakeFiles/6max_atomic.dir
+/home/kolesiko/sem4/PDV/week04/lec04/cmake-build-debug/CMakeFiles/7spinlock.dir
+/home/kolesiko/sem4/PDV/week04/lec04/cmake-build-debug/CMakeFiles/8lock_free_stack.dir
+/home/kolesiko/sem4/PDV/week04/lec04/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kolesiko/sem4/PDV/week04/lec04/cmake-build-debug/CMakeFiles/rebuild_cache.dir

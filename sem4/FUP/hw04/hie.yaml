@@ -1,0 +1,6 @@
+cradle:
+  direct:
+    arguments:
+      - hw04/Hw4.hs
+      - hw04/Hw3.hs
+      - hw04/Parser.hs

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="hw5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/FUP/hw01/template.zip!/" />
+      <root url="jar://$PROJECT_DIR$/FUP/hw01/examples.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

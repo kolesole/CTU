@@ -1,0 +1,90 @@
+2025-05-21 17:21:43 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-05-21 17:21:43 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.4.4.Final
+2025-05-21 17:21:43 [main] INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2025-05-21 17:21:43 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: org.postgresql.Driver
+2025-05-21 17:21:43 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:postgresql://slon.felk.cvut.cz:5432/kolesole]
+2025-05-21 17:21:43 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {user=kolesole, password=****}
+2025-05-21 17:21:43 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2025-05-21 17:21:43 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 20 (min=1)
+2025-05-21 17:21:45 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-05-21 17:21:45 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@44fd7ba4] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-05-21 17:21:45 [main] INFO  DAO.BaseDAO - Successfully created entity: Trainer
+2025-05-21 17:21:45 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001008: Cleaning up connection pool [jdbc:postgresql://slon.felk.cvut.cz:5432/kolesole]
+2025-05-21 17:24:08 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-05-21 17:24:08 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.4.4.Final
+2025-05-21 17:24:08 [main] INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2025-05-21 17:24:09 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: org.postgresql.Driver
+2025-05-21 17:24:09 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:postgresql://slon.felk.cvut.cz:5432/kolesole]
+2025-05-21 17:24:09 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {user=kolesole, password=****}
+2025-05-21 17:24:09 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2025-05-21 17:24:09 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 20 (min=1)
+2025-05-21 17:24:10 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-05-21 17:24:10 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@6aff97d6] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-05-21 17:24:11 [main] INFO  DAO.BaseDAO - Successfully updated 1 record(s) where login = johnn
+2025-05-21 17:24:11 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001008: Cleaning up connection pool [jdbc:postgresql://slon.felk.cvut.cz:5432/kolesole]
+2025-05-21 17:25:41 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-05-21 17:25:41 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.4.4.Final
+2025-05-21 17:25:41 [main] INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2025-05-21 17:25:42 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: org.postgresql.Driver
+2025-05-21 17:25:42 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:postgresql://slon.felk.cvut.cz:5432/kolesole]
+2025-05-21 17:25:42 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {user=kolesole, password=****}
+2025-05-21 17:25:42 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2025-05-21 17:25:42 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 20 (min=1)
+2025-05-21 17:25:43 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-05-21 17:25:43 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@3e6748ae] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-05-21 17:25:43 [main] INFO  DAO.BaseDAO - Deleted 1 record(s) from Trainer where login = smithhh
+2025-05-21 17:25:43 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001008: Cleaning up connection pool [jdbc:postgresql://slon.felk.cvut.cz:5432/kolesole]
+2025-05-21 17:33:37 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-05-21 17:33:37 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.4.4.Final
+2025-05-21 17:33:37 [main] INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2025-05-21 17:33:37 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: org.postgresql.Driver
+2025-05-21 17:33:37 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:postgresql://slon.felk.cvut.cz:5432/kolesole]
+2025-05-21 17:33:37 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {user=kolesole, password=****}
+2025-05-21 17:33:37 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2025-05-21 17:33:37 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 20 (min=1)
+2025-05-21 17:33:39 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-05-21 17:33:39 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@4c176ff1] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-05-21 17:33:39 [main] INFO  DAO.BaseDAO - Found Reservation with status = reserved
+2025-05-21 17:33:40 [main] INFO  DAO.BaseDAO - Table Client contains 31901 records
+2025-05-21 17:33:40 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001008: Cleaning up connection pool [jdbc:postgresql://slon.felk.cvut.cz:5432/kolesole]
+2025-05-21 17:34:09 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-05-21 17:34:09 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.4.4.Final
+2025-05-21 17:34:09 [main] INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2025-05-21 17:34:09 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: org.postgresql.Driver
+2025-05-21 17:34:09 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:postgresql://slon.felk.cvut.cz:5432/kolesole]
+2025-05-21 17:34:09 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {user=kolesole, password=****}
+2025-05-21 17:34:09 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2025-05-21 17:34:09 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 20 (min=1)
+2025-05-21 17:34:11 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-05-21 17:34:11 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@5f193335] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-05-21 17:34:12 [main] INFO  DAO.BaseDAO - Found Reservation with status = reserved
+2025-05-21 17:34:12 [main] INFO  DAO.BaseDAO - Table Client contains 31901 records
+2025-05-21 17:34:12 [main] INFO  DAO.BaseDAO - Successfully created entity: Payment
+2025-05-21 17:34:12 [main] INFO  DAO.BaseDAO - Successfully updated entity: Client
+2025-05-21 17:34:12 [main] INFO  DAO.BaseDAO - Successfully updated entity: Reservation
+2025-05-21 17:34:12 [main] INFO  queries.Query - Payment 57872 successful for reservation 64980
+2025-05-21 17:34:12 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001008: Cleaning up connection pool [jdbc:postgresql://slon.felk.cvut.cz:5432/kolesole]
+2025-05-21 17:36:01 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-05-21 17:36:01 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.4.4.Final
+2025-05-21 17:36:01 [main] INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2025-05-21 17:36:01 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: org.postgresql.Driver
+2025-05-21 17:36:01 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:postgresql://slon.felk.cvut.cz:5432/kolesole]
+2025-05-21 17:36:01 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {user=kolesole, password=****}
+2025-05-21 17:36:01 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2025-05-21 17:36:01 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 20 (min=1)
+2025-05-21 17:36:02 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-05-21 17:36:02 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@27c53c32] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-05-21 17:36:03 [main] INFO  DAO.BaseDAO - Table SportsHall contains 10 records
+2025-05-21 17:36:03 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001008: Cleaning up connection pool [jdbc:postgresql://slon.felk.cvut.cz:5432/kolesole]
+2025-05-21 17:39:10 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-05-21 17:39:10 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.4.4.Final
+2025-05-21 17:39:10 [main] INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2025-05-21 17:39:10 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: org.postgresql.Driver
+2025-05-21 17:39:10 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:postgresql://slon.felk.cvut.cz:5432/kolesole]
+2025-05-21 17:39:10 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {user=kolesole, password=****}
+2025-05-21 17:39:10 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2025-05-21 17:39:10 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 20 (min=1)
+2025-05-21 17:39:12 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-05-21 17:39:12 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@19002b34] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-05-21 17:39:12 [main] INFO  DAO.BaseDAO - Found Client with id = 200
+2025-05-21 17:39:12 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001008: Cleaning up connection pool [jdbc:postgresql://slon.felk.cvut.cz:5432/kolesole]
