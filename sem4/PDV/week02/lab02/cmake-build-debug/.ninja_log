@@ -1,4 +1,0 @@
-# ninja log v6
-0	957	1740652726865469518	CMakeFiles/02_1threads.dir/src/1threads_benchmark.cpp.o	5e3f6bb39747f4b1
-0	1079	1740652726865469518	CMakeFiles/02_1threads.dir/src/1threads.cpp.o	1ef983c3188078f2
-1079	1350	1740652727944473505	02_1threads	89345e64c8acf8a2

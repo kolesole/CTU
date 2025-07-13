@@ -1,8 +1,0 @@
-# ninja log v6
-1	913	1744277271000438093	CMakeFiles/08_sparse_multiplication.dir/src/multiply.cpp.o	c4b4c6a8f62027a7
-1	1058	1744277271000438093	CMakeFiles/08_sparse_multiplication.dir/src/main.cpp.o	d293b53b396be1b3
-1058	1415	1744277272057431801	08_sparse_multiplication	7cfff3d616282c5c
-2	879	1744278058205446810	CMakeFiles/08_sparse_multiplication.dir/src/multiply.cpp.o	c4b4c6a8f62027a7
-879	1203	1744278059082439151	08_sparse_multiplication	7cfff3d616282c5c
-1	887	1744278453925233026	CMakeFiles/08_sparse_multiplication.dir/src/multiply.cpp.o	c4b4c6a8f62027a7
-887	1217	1744278454811226252	08_sparse_multiplication	7cfff3d616282c5c

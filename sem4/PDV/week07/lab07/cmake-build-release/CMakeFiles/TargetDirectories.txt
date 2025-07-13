@@ -1,8 +1,0 @@
-/home/kolesiko/sem4/PDV/week07/cmake-build-release/CMakeFiles/07_0test_simd_support.dir
-/home/kolesiko/sem4/PDV/week07/cmake-build-release/CMakeFiles/07_1autovectorization.dir
-/home/kolesiko/sem4/PDV/week07/cmake-build-release/CMakeFiles/07_2intrinsics_test.dir
-/home/kolesiko/sem4/PDV/week07/cmake-build-release/CMakeFiles/07_3normal_distribution.dir
-/home/kolesiko/sem4/PDV/week07/cmake-build-release/CMakeFiles/07_4conditional_swap.dir
-/home/kolesiko/sem4/PDV/week07/cmake-build-release/CMakeFiles/07_5matrix.dir
-/home/kolesiko/sem4/PDV/week07/cmake-build-release/CMakeFiles/edit_cache.dir
-/home/kolesiko/sem4/PDV/week07/cmake-build-release/CMakeFiles/rebuild_cache.dir

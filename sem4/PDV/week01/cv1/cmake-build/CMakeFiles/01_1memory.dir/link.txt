@@ -1,1 +1,0 @@
-/usr/bin/c++ -flto=auto -fno-fat-lto-objects CMakeFiles/01_1memory.dir/src/1memory.cpp.o -o 01_1memory 

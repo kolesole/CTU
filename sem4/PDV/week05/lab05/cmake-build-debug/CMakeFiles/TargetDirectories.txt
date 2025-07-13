@@ -1,5 +1,0 @@
-/home/kolesiko/sem4/PDV/week05/lab05/cmake-build-debug/CMakeFiles/05_1early_exit.dir
-/home/kolesiko/sem4/PDV/week05/lab05/cmake-build-debug/CMakeFiles/05_2cancellations.dir
-/home/kolesiko/sem4/PDV/week05/lab05/cmake-build-debug/CMakeFiles/05_3tasks.dir
-/home/kolesiko/sem4/PDV/week05/lab05/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/kolesiko/sem4/PDV/week05/lab05/cmake-build-debug/CMakeFiles/rebuild_cache.dir

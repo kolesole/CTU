@@ -1,4 +1,0 @@
-/home/kolesiko/sem4/PDV/week06/lab06/cmake-build-debug/CMakeFiles/06_1sorting.dir
-/home/kolesiko/sem4/PDV/week06/lab06/cmake-build-debug/CMakeFiles/06_3prefixsum.dir
-/home/kolesiko/sem4/PDV/week06/lab06/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/kolesiko/sem4/PDV/week06/lab06/cmake-build-debug/CMakeFiles/rebuild_cache.dir
