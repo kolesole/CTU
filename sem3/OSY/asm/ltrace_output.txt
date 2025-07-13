@@ -1,2 +1,0 @@
-puts("Hello world")                                                                                                = 12
-+++ exited (status 0) +++
