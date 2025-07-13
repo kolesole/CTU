@@ -4,8 +4,6 @@ project(OSY C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(OSY
-        cv4/cv4.c
-        cv4/cv4.c
         hw03/main.c
         hw03/nd.c
         hw03/nd.h
