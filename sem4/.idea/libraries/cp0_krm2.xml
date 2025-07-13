@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="cp0-krm2">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/DBS/CP01/cp0-krm.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

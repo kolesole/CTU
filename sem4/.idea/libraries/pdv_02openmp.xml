@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="pdv-02openmp">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/PDV/hw02/pdv-02openmp.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
