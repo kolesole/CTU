@@ -1,0 +1,10 @@
+module:cz.cvut.fel.pjv
+cz.cvut.fel.pjv
+cz.cvut.fel.pjv.model
+cz.cvut.fel.pjv.model.characters
+cz.cvut.fel.pjv.model.items
+cz.cvut.fel.pjv.model.items.food
+cz.cvut.fel.pjv.model.items.food.dishes
+cz.cvut.fel.pjv.model.items.materials
+cz.cvut.fel.pjv.model.items.weapons
+cz.cvut.fel.pjv.view

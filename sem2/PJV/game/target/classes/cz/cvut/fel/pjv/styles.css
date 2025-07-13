@@ -1,0 +1,40 @@
+.button {
+    -fx-background-color: #85cc6f;
+    -fx-text-fill: #15B2D3;
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-font-family: 'Georgia';
+    -fx-padding: 10px 50px;
+    -fx-border-radius: 20px;
+    -fx-background-radius: 10px;
+}
+
+.button:hover {
+    -fx-background-color: #15B2D3;
+    -fx-text-fill: #85cc6f;
+}
+
+.button:pressed {
+    -fx-background-color: #15B2D3;
+    -fx-text-fill: #85cc6f;
+}
+
+.check-box {
+    -fx-text-fill: #15B2D3;
+    -fx-font-family: 'Georgia';
+    -fx-font-size: 14pt;
+    -fx-font-weight: bold;
+}
+
+.check-box:selected {
+    -fx-mark-color: #85cc6f;
+}
+
+.check-box .box {
+    -fx-border-color: #15B2D3;
+    -fx-border-width: 3px;
+}
+
+.check-box:hover .box {
+    -fx-border-color: #15B2D3;
+}

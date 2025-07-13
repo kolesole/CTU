@@ -1,0 +1,4 @@
+Feb 01, 2025 1:35:29 AM cz.cvut.fel.pjv.view.GameController initialize
+INFO: Animation timer started
+Feb 01, 2025 1:35:42 AM cz.cvut.fel.pjv.view.GameController stopAnimationTimer
+INFO: Animation timer stopped

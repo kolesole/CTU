@@ -1,0 +1,68 @@
+Feb 01, 2025 1:35:29 AM cz.cvut.fel.pjv.GameApplication lambda$showMenu$0
+INFO: Start game
+Feb 01, 2025 1:35:30 AM cz.cvut.fel.pjv.GameApplication lambda$showGame$2
+INFO: Player pressed D
+Feb 01, 2025 1:35:31 AM cz.cvut.fel.pjv.GameApplication lambda$showGame$2
+INFO: Player pressed S
+Feb 01, 2025 1:35:31 AM cz.cvut.fel.pjv.GameApplication lambda$showGame$4
+INFO: Player released D
+Feb 01, 2025 1:35:32 AM cz.cvut.fel.pjv.GameApplication lambda$showGame$2
+INFO: Player pressed A
+Feb 01, 2025 1:35:32 AM cz.cvut.fel.pjv.GameApplication lambda$showGame$4
+INFO: Player released S
+Feb 01, 2025 1:35:32 AM cz.cvut.fel.pjv.GameApplication lambda$showGame$4
+INFO: Player released A
+Feb 01, 2025 1:35:33 AM cz.cvut.fel.pjv.GameApplication lambda$showGame$2
+INFO: Player pressed D
+Feb 01, 2025 1:35:33 AM cz.cvut.fel.pjv.GameApplication lambda$showGame$4
+INFO: Player released D
+Feb 01, 2025 1:35:34 AM cz.cvut.fel.pjv.GameApplication lambda$showGame$2
+INFO: Player pressed D
+Feb 01, 2025 1:35:35 AM cz.cvut.fel.pjv.GameApplication lambda$showGame$4
+INFO: Player released D
+Feb 01, 2025 1:35:36 AM cz.cvut.fel.pjv.GameApplication lambda$showGame$2
+INFO: Player pressed D
+Feb 01, 2025 1:35:37 AM cz.cvut.fel.pjv.GameApplication lambda$showGame$2
+INFO: Player pressed W
+Feb 01, 2025 1:35:37 AM cz.cvut.fel.pjv.GameApplication lambda$showGame$4
+INFO: Player released D
+Feb 01, 2025 1:35:37 AM cz.cvut.fel.pjv.GameApplication lambda$showGame$4
+INFO: Player released W
+Feb 01, 2025 1:35:37 AM cz.cvut.fel.pjv.GameApplication lambda$showGame$2
+INFO: Player pressed D
+Feb 01, 2025 1:35:37 AM cz.cvut.fel.pjv.GameApplication lambda$showGame$4
+INFO: Player released D
+Feb 01, 2025 1:35:38 AM cz.cvut.fel.pjv.GameApplication lambda$showGame$5
+INFO: Player released LBM
+Feb 01, 2025 1:35:38 AM cz.cvut.fel.pjv.GameApplication lambda$showGame$3
+INFO: Player pressed LMB
+Feb 01, 2025 1:35:38 AM cz.cvut.fel.pjv.GameApplication lambda$showGame$5
+INFO: Player released LBM
+Feb 01, 2025 1:35:38 AM cz.cvut.fel.pjv.GameApplication lambda$showGame$3
+INFO: Player pressed LMB
+Feb 01, 2025 1:35:39 AM cz.cvut.fel.pjv.GameApplication lambda$showGame$5
+INFO: Player released LBM
+Feb 01, 2025 1:35:39 AM cz.cvut.fel.pjv.GameApplication lambda$showGame$3
+INFO: Player pressed LMB
+Feb 01, 2025 1:35:39 AM cz.cvut.fel.pjv.GameApplication lambda$showGame$5
+INFO: Player released LBM
+Feb 01, 2025 1:35:39 AM cz.cvut.fel.pjv.GameApplication lambda$showGame$3
+INFO: Player pressed LMB
+Feb 01, 2025 1:35:39 AM cz.cvut.fel.pjv.GameApplication lambda$showGame$2
+INFO: Player pressed S
+Feb 01, 2025 1:35:39 AM cz.cvut.fel.pjv.GameApplication lambda$showGame$4
+INFO: Player released S
+Feb 01, 2025 1:35:39 AM cz.cvut.fel.pjv.GameApplication lambda$showGame$2
+INFO: Player pressed S
+Feb 01, 2025 1:35:40 AM cz.cvut.fel.pjv.GameApplication lambda$showGame$4
+INFO: Player released S
+Feb 01, 2025 1:35:40 AM cz.cvut.fel.pjv.GameApplication lambda$showGame$5
+INFO: Player released LBM
+Feb 01, 2025 1:35:40 AM cz.cvut.fel.pjv.GameApplication lambda$showGame$3
+INFO: Player pressed LMB
+Feb 01, 2025 1:35:42 AM cz.cvut.fel.pjv.GameApplication lambda$showGame$2
+INFO: Return to menu
+Feb 01, 2025 1:35:42 AM cz.cvut.fel.pjv.GameApplication lambda$showGame$2
+INFO: Player pressed ESCAPE
+Feb 01, 2025 1:35:45 AM cz.cvut.fel.pjv.GameApplication lambda$showMenu$1
+INFO: Exit the game
