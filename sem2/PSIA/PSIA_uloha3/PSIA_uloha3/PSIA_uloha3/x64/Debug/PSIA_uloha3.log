@@ -1,0 +1,4 @@
+﻿  PSIA_uloha3.cpp
+C:\Users\79787\Desktop\PSIA\PSIA_uloha3\PSIA_uloha3\PSIA_uloha3.cpp(107,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\79787\Desktop\PSIA\PSIA_uloha3\PSIA_uloha3\PSIA_uloha3.cpp(508,11): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+  PSIA_uloha3.vcxproj -> C:\Users\79787\Desktop\PSIA\PSIA_uloha3\x64\Debug\PSIA_uloha3.exe

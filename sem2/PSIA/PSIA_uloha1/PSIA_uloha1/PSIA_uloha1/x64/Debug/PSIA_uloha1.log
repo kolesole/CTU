@@ -1,0 +1,4 @@
+﻿  PSIA_uloha1.cpp
+C:\Users\79787\Desktop\PSIA\PSIA_uloha1\PSIA_uloha1\PSIA_uloha1.cpp(123,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\79787\Desktop\PSIA\PSIA_uloha1\PSIA_uloha1\PSIA_uloha1.cpp(55,7): warning C4101: 'buffer_tx': unreferenced local variable
+  PSIA_uloha1.vcxproj -> C:\Users\79787\Desktop\PSIA\PSIA_uloha1\x64\Debug\PSIA_uloha1.exe
