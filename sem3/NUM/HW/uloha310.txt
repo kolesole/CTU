@@ -1,0 +1,9 @@
+lprint(`Uloha 310:`);
+lprint(`Vytvorte program, ktery pro libovolne  t  z intervalu  <a, b>`);
+a := 0;  b := 100;
+lprint(`vypocita pomoci nektere ze zde probiranych metod hodnotu`);
+dano := Int(sin(sin(x)), x=a..t);
+lprint(`s absolutni chybou nejvyse`);
+epsilon := 1e-7;
+lprint(`Objasnete pouzity postup a zduvodnete dosazenou presnost.`);
+lprint(`Funkci programu demonstrujte graficky nebo tabulkou (v zavislosti na t).`);
