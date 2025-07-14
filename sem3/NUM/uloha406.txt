@@ -1,6 +1,0 @@
-lprint(`Uloha 406:`);
-lprint(`Urcete vsechny koreny funkce`);
-f := exp(0.12e-1*x)-.688*exp(0.1e-1*x)-exp(x);
-lprint(`s chybou nejvyse`);
-epsilon := 1e-10;
-lprint(`Zduvodnete dosazenou presnost.`);
