@@ -1,8 +1,6 @@
 import random, time
 import numpy as np
 
-import student1 as pavel_huesosov
-
 import ox
 
 class MCTSBot:
@@ -93,7 +91,7 @@ class MCTSBot:
 
 if __name__ == '__main__':
 	board = ox.Board(8)  # 8x8
-	bots = [MCTSBot(0, 15), pavel_huesosov.MCTSBot1(1, 15)]
+	bots = [MCTSBot(0, 15), MCTSBot(1, 15)]
 	# try your bot against itself
 	while not board.is_terminal():
 		current_player = board.current_player()
